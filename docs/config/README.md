@@ -12,7 +12,7 @@ Xray 的配置文件为 json 格式, 客户端和服务端的配置格式没有�
 
 ```json
 {
-  "vsersion": {},
+  "version": {},
   "log": {},
   "api": {},
   "dns": {},
